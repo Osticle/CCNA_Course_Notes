@@ -17,6 +17,8 @@ To bulk download these course notes, use ```git clone https://github.com/psaumur
 For browser based conversion of these .md format files, to PDF format, I recommend the online tool [Dillinger.io](https://dillinger.io/)
 For local conversion of these .md format files, to other friendly formats, I recommend the open source [Calibre](https://calibre-ebook.com/) ** Allows Bulk processing to mobile / iPad **
 
+CCNA 200-301 course files resources (Anki Flashcards and Packet Tracer labs): [Google Drive](https://drive.google.com/drive/folders/1PwK_jWqfUtOjV7gHt8ODutq9QA5cxCgi?usp=drive_link)
+
 ---
 
 # Course Day Chapter Notes:
