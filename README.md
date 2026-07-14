@@ -23,8 +23,8 @@ CCNA 200-301 course files resources (Anki Flashcards and Packet Tracer labs): [G
 # Course Day Chapter Notes:
 
 - Day 1.  [Networking Devices](https://github.com/Osticle/CCNA_Course_Notes/blob/main/Course_Notes/Day%201/Network_Devices.md)
-- Day 2.  [Interfaces And Cables](https://github.com/psaumur/CCNA/blob/main/Course_Notes/Interfaces_and_Cables.md) 
-- Day 3.  [OSI Model and TCP/IP Suite](https://github.com/psaumur/CCNA/blob/main/Course_Notes/OSI_Model_TCPSuite.md)
+- Day 2.  [Interfaces And Cables](https://github.com/Osticle/CCNA_Course_Notes/blob/main/Course_Notes/Day%202/Interfaces_and_Cables.md) 
+- Day 3.  [OSI Model and TCP/IP Suite](https://github.com/Osticle/CCNA_Course_Notes/blob/main/Course_Notes/Day%203/OSI_Model_TCPSuite.md)
 - Day 4.  [Intro to the CLI](https://github.com/psaumur/CCNA_Course_Notes/blob/main/Course_Notes/Intro_to_CLI.md)
 - Day 5.  [Ethernet LAN Switching - Part 1](https://github.com/psaumur/CCNA/blob/main/Course_Notes/Ethernet_LAN_Switching_Part1.md)
 - Day 6.  [Ethernet LAN Switching - Part 2](https://github.com/psaumur/CCNA/blob/main/Course_Notes/Ethernet_LAN_Switching_Part2.md)
