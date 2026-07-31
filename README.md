@@ -36,7 +36,7 @@ CCNA 200-301 course files resources (Anki Flashcards and Packet Tracer labs): [G
 - Day 11.  [Static Routing - Part 2](https://github.com/Osticle/CCNA_Course_Notes/blob/main/Course_Notes/Day%2011%20-%20Part%202/Static_Routing_Part2.md)
 - Day 12.  [Life of a Packet](https://github.com/Osticle/CCNA_Course_Notes/blob/main/Course_Notes/Day%2012/Life_of_a_Packet.md)
 - Day 13.  [Subnetting - Part 1](https://github.com/Osticle/CCNA_Course_Notes/blob/main/Course_Notes/Day%2013/Subnetting_Part1.md)
-- Day 14.  [Subnetting - Part 2](https://github.com/psaumur/CCNA/blob/main/Course_Notes/Subnetting_Part2.md)
+- Day 14.  [Subnetting - Part 2](https://github.com/Osticle/CCNA_Course_Notes/blob/main/Course_Notes/Day%2014/Subnetting_Part2.md)
 - Day 15.  [Subnetting (VLSM) - Part 3](https://github.com/psaumur/CCNA/blob/main/Course_Notes/Subnetting_VLSM_Part3.md)
 - Day 16.  [VLANS - Part 1](https://github.com/psaumur/CCNA/blob/main/Course_Notes/VLAN_Part1.md)
 - Day 17.  [VLANS - Part 2](https://github.com/psaumur/CCNA/blob/main/Course_Notes/VLAN_Part2.md)
