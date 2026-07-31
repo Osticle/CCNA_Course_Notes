@@ -19,10 +19,10 @@ For local conversion of these .md format files, to other friendly formats, I rec
 CCNA 200-301 course files resources (Anki Flashcards and Packet Tracer labs): [Google Drive](https://drive.google.com/drive/folders/1PwK_jWqfUtOjV7gHt8ODutq9QA5cxCgi?usp=drive_link)
 
 To practice subnetting, use these websites:  
-    - [Practice 1](https://subnetipv4.com/)
-    - [Practice 2](http://www.subnettingquestions.com/)
-    - [Practice 3](http://subnetting.org/)
-    - [Practice 4](https://subnettingpractice.com/)
+- [Practice 1](https://subnetipv4.com/)
+- [Practice 2](http://www.subnettingquestions.com/)
+- [Practice 3](http://subnetting.org/)
+- [Practice 4](https://subnettingpractice.com/)
 
 ---
 
