@@ -45,7 +45,7 @@ To practice subnetting, use these websites:
 - Day 14.  [Subnetting - Part 2](https://github.com/Osticle/CCNA_Course_Notes/blob/main/Course_Notes/Day%2014/Subnetting_Part2.md)
 - Day 15.  [Subnetting (VLSM) - Part 3](https://github.com/Osticle/CCNA_Course_Notes/blob/main/Course_Notes/Day%2015/Subnetting_VLSM_Part3.md)
 - Day 16.  [VLANS - Part 1](https://github.com/Osticle/CCNA_Course_Notes/blob/main/Course_Notes/Day%2016/VLAN_Part1.md)
-- Day 17.  [VLANS - Part 2](https://github.com/psaumur/CCNA/blob/main/Course_Notes/VLAN_Part2.md)
+- Day 17.  [VLANS - Part 2](https://github.com/Osticle/CCNA_Course_Notes/blob/main/Course_Notes/Day%2017/VLAN_Part2.md)
 - Day 18.  [VLANS - Part 3](https://github.com/psaumur/CCNA/blob/main/Course_Notes/VLAN_Part3.md)
 - Day 19.  [DTP / VTP](https://github.com/psaumur/CCNA/blob/main/Course_Notes/DTP_VTP.md)
 - Day 20.  [Spanning Tree Protocol - Part 1](https://github.com/psaumur/CCNA/blob/main/Course_Notes/Spanning_Tree_Protocol_Part1.md)
