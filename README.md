@@ -52,7 +52,7 @@ To practice subnetting, use these websites:
 - Day 21.  [Spanning Tree Protocol - Part 2](https://github.com/Osticle/CCNA_Course_Notes/blob/main/Course_Notes/Day%2021/Spanning_Tree_Protocol_Part2.md)
 - Day 22.  [Rapid Spanning Tree Protocol](https://github.com/Osticle/CCNA_Course_Notes/blob/main/Course_Notes/Day%2022/Rapid_Spanning_Tree_Protocol.md)
 - Day 23.  [Etherchannel](https://github.com/Osticle/CCNA_Course_Notes/blob/main/Course_Notes/Day%2023/Etherchannel.md)
-- Day 24.  [Dynamic Routing](https://github.com/psaumur/CCNA/blob/main/Course_Notes/DynamicRouting.md)
+- Day 24.  [Dynamic Routing](https://github.com/Osticle/CCNA_Course_Notes/blob/main/Course_Notes/Day%2024/DynamicRouting.md)
 - Day 25.  [RIP / EIGRP](https://github.com/psaumur/CCNA/blob/main/Course_Notes/RIP_and_EIGRP.md)
 - Day 26.  [OSPF - Part 1](https://github.com/psaumur/CCNA/blob/main/Course_Notes/OSPF_Part1.md)
 - Day 27.  [OSPF - Part 2](https://github.com/psaumur/CCNA/blob/main/Course_Notes/OSPF_Part2.md)
