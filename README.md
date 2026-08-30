@@ -55,7 +55,7 @@ To practice subnetting, use these websites:
 - Day 24.  [Dynamic Routing](https://github.com/Osticle/CCNA_Course_Notes/blob/main/Course_Notes/Day%2024/DynamicRouting.md)
 - Day 25.  [RIP / EIGRP](https://github.com/Osticle/CCNA_Course_Notes/blob/main/Course_Notes/Day%2025/RIP_and_EIGRP.md)
 - Day 26.  [OSPF - Part 1](https://github.com/Osticle/CCNA_Course_Notes/blob/main/Course_Notes/Day%2026/OSPF_Part1.md)
-- Day 27.  [OSPF - Part 2](https://github.com/psaumur/CCNA/blob/main/Course_Notes/OSPF_Part2.md)
+- Day 27.  [OSPF - Part 2](https://github.com/Osticle/CCNA_Course_Notes/blob/main/Course_Notes/Day%2027/OSPF_Part2.md)
 - Day 28.  [OSPF - Part 3](https://github.com/psaumur/CCNA/blob/main/Course_Notes/OSPF_Part3.md)
 - Day 29.  [First Hop Redundancy Protocol](https://github.com/psaumur/CCNA/blob/main/Course_Notes/First_Hop_Redundancy_Protocols.md)
 - Day 30.  [TCP and UDP](https://github.com/psaumur/CCNA/blob/main/Course_Notes/TCP_and_UDP.md)
