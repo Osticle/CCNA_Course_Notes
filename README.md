@@ -62,7 +62,7 @@ To practice subnetting, use these websites:
 - Day 31.  [IPv6 - Part 1](https://github.com/Osticle/CCNA_Course_Notes/blob/main/Course_Notes/Day%2031/IPv6_Part1.md)
 - Day 32.  [IPv6 - Part 2](https://github.com/Osticle/CCNA_Course_Notes/blob/main/Course_Notes/Day%2032/IPv6_Part2.md)
 - Day 33.  [IPv6 - Part 3](https://github.com/Osticle/CCNA_Course_Notes/blob/main/Course_Notes/Day%2033/IPv6_Part3.md)
-- Day 34.  [Standard Access Control List](https://github.com/psaumur/CCNA/blob/main/Course_Notes/Standard_Access_Control_Lists.md)
+- Day 34.  [Standard Access Control List](https://github.com/Osticle/CCNA_Course_Notes/blob/main/Course_Notes/Day%2034/Standard_Access_Control_Lists.md)
 - Day 35.  [Extended Access Control List](https://github.com/psaumur/CCNA/blob/main/Course_Notes/Extended_Access_Control_Lists.md)
 - Day 36.  [CDP and LLDP](https://github.com/psaumur/CCNA/blob/main/Course_Notes/CDP_and_LLDP.md)
 - Day 37.  [NTP - Network Time Protocol](https://github.com/psaumur/CCNA/blob/main/Course_Notes/NTP.md)
